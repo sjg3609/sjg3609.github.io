@@ -1,14 +1,36 @@
-.header {text-align: center;}
+.header {text-align: center;
+ 
+}
 
-body {background-color: #FFFBEE;
-  color:;
+body {
+  
+  background-image: url("");
+  background-color: #FFFBEE;
+  background-position: center;
+  background-size: cover;
   font-family: Calibri, Arial, Helvetica;
   margin: 10% 15%;
 }
 
 .exp-header {
+  
   text-align: center;
   text-transform: uppercase;
-  border-top: 2px solid;
-  border-bottom: 2px solid;  
+  border-style: outset;  
+  border: 2px solid;
+  border-radius: 7px;
+ 
+}
+
+
+.footer {
+  text-align: center;
+  text-transform: uppercase;
+  border-style: outset;
+  border: 2px solid;
+  border-radius: 7px;
+
+}
+  
+  
 }
