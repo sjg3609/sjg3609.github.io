@@ -21,8 +21,8 @@ body{
   background-color: #FFFFFF;}
 
 .experience{
+  text-align:left;
   font-family: Calibri, Arial, Helvetica;
-  text-align:center;
   margin: 7%
   
 }
