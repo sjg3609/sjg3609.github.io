@@ -1,36 +1,68 @@
-.header {text-align: center;
- 
-}
 
-body {
+.header{
+text-align: center;
+  font-family: Calibri, Arial;
   
-  background-image: url("");
-  background-color: #FFFBEE;
-  background-position: center;
-  background-size: cover;
+}
+  
+body{
+  background-color: #B3DDFE;
   font-family: Calibri, Arial, Helvetica;
-  margin: 10% 15%;
+  
 }
 
 .exp-header {
-  
+  font-family: Calibri, Arial;
   text-align: center;
   text-transform: uppercase;
   border-style: outset;  
   border: 2px solid;
   border-radius: 7px;
- 
+  background-color: #FFFFFF;}
+
+.experience{
+  font-family: Calibri, Arial, Helvetica;
+  text-align:center;
+  margin: 7%
+  
 }
 
+.edu-header{ 
+  font-family: Calibri, Arial;
+  text-align: center;
+  text-transform: uppercase;
+  border-style: outset;  
+  border: 2px solid;
+  border-radius: 7px;
+  background-color: #FFFFFF;
+}
+
+.education{
+  text-align:center;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/6a/University_of_Minnesota_Logo.svg");
+  background-position:right;
+  background-repeat:no-repeat;
+  font-family: Calibri, Arial, Helvetica;
+  margin: 1%
+ }
 
 .footer {
+  font-family: Calibri, Arial;
   text-align: center;
   text-transform: uppercase;
   border-style: outset;
   border: 2px solid;
   border-radius: 7px;
+  background-color: #FFFFFF;
 
 }
   
 
  
+.fun-facts{
+  text-align:center;
+  font-family: Calibri, Arial;
+  margin:3%
+  
+  
+}
